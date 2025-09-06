@@ -19,10 +19,29 @@ This project is designed as an educational tool to practice and visualize orderi
 - **Vite** – Fast and optimized build tool
 - **Tailwind CSS 4** – Utility-first CSS framework for styling
 - **Framer Motion** – For animations and transitions
-- **ESLint** – Code quality and linting
-- **TypeScript typings** – For better type checking during development
 
 ## 🚀 Getting Started
+
+Follow these steps to run the project on your local machine:
+
+### 1. Clone the repository
+```bash
+git clone 
+```
+Run the following command to install all required packages:
+```bash
+npm install 
+```
+Run this command to start the app locally:
+```bash
+npm run dev
+```
+Once the server starts, open your web browser and go to:
+```bash
+http://localhost:5173
+```
+
+
 
 
 
