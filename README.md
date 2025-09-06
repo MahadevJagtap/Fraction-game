@@ -40,6 +40,18 @@ Once the server starts, open your web browser and go to:
 ```bash
 http://localhost:5173
 ```
+game/
+├── public/                 # Static assets like images, fonts, etc.
+├── src/                    # Source files
+│   ├── components/         # Reusable UI components
+│   ├── pages/              # Different pages or views
+│   ├── styles/             # Tailwind CSS and global styles
+│   └── main.jsx            # Entry point
+├── .eslintrc.js            # ESLint configuration
+├── tailwind.config.js     # Tailwind CSS configuration
+├── vite.config.js          # Vite configuration
+├── package.json            # Project metadata and dependencies
+└── README.md               # Project documentation
 
 
 
