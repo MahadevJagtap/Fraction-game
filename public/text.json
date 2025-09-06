@@ -1,0 +1,88 @@
+{
+  "title": "Order the Fractions",
+  "subtitle": "Drag and drop the fraction beakers to arrange them in descending order. The filled portions help you visualize which fractions are larger.",
+  "buttons": {
+    "check": "Check Order",
+    "retry": "Try Again",
+    "startLevel": "Start Level",
+    "playAgain": "Play Again",
+    "startOver": "Start Over"
+  },
+  "feedback": {
+    "perfect": "Perfect! You arranged all fractions correctly!",
+    "partial": "{n}/{total} fractions are correctly positioned.",
+    "hintSameDen": "When all fractions have the same denominator, the larger numerator is the larger fraction."
+  },
+  "levels": [
+    {
+      "id": 1,
+      "label": "Level 1: Ninths",
+      "difficulty": "Easy",
+      "desc": "Arrange ninths in descending order.",
+      "fractions": ["7/9", "6/9", "3/9"]
+    },
+    {
+      "id": 2,
+      "label": "Level 2: Fourths",
+      "difficulty": "Easy",
+      "desc": "Compare fourths (quarters).",
+      "fractions": ["1/4", "1/2", "3/4"]
+    },
+    {
+      "id": 3,
+      "label": "Level 3: Mixed Denominators",
+      "difficulty": "Medium",
+      "desc": "Different denominators, think relatively.",
+      "fractions": ["5/8", "2/3", "3/4"]
+    },
+    {
+      "id": 4,
+      "label": "Level 4: Tenths",
+      "difficulty": "Hard",
+      "desc": "Work with tenths — great prep for decimals.",
+      "fractions": ["3/10", "7/10", "1/10", "9/10", "5/10"]
+    },
+    {
+      "id": 5,
+      "label": "Level 5: Sixths",
+      "difficulty": "Medium",
+      "desc": "Compare fractions with denominator 6.",
+      "fractions": ["1/6", "5/6", "3/6", "4/6"]
+    },
+    {
+      "id": 6,
+      "label": "Level 6: Sevenths",
+      "difficulty": "Hard",
+      "desc": "Less common denominators — sevenths!",
+      "fractions": ["2/7", "5/7", "6/7", "3/7"]
+    },
+    {
+      "id": 7,
+      "label": "Level 7: Mixed Challenge",
+      "difficulty": "Hard",
+      "desc": "Denominators 5, 8, and 10 — test your comparison skills.",
+      "fractions": ["4/5", "7/10", "3/8", "9/10"]
+    },
+    {
+      "id": 8,
+      "label": "Level 8: Trick Set",
+      "difficulty": "Hard",
+      "desc": "Fractions close in value — be careful!",
+      "fractions": ["7/12", "2/3", "5/8", "3/4"]
+    },
+    {
+      "id": 9,
+      "label": "Level 9: Larger Denominators",
+      "difficulty": "Expert",
+      "desc": "Compare fractions with denominators up to 16.",
+      "fractions": ["7/16", "9/12", "5/8", "11/16"]
+    },
+    {
+      "id": 10,
+      "label": "Level 10: Final Challenge",
+      "difficulty": "Expert",
+      "desc": "A tricky mix — put your fraction skills to the test!",
+      "fractions": ["11/12", "5/6", "7/8", "9/10", "3/4"]
+    }
+  ]
+}
