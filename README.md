@@ -2,9 +2,16 @@
 
 A simple and interactive **React** project built using **Vite**, **Tailwind CSS**, and **Framer Motion** to help users learn how to order fractions through engaging animations and dynamic UI.
 
+## 🌐 Live Demo
+
+Check out the live version of the project here:
+
+➡️ [Order the Fraction - Live Website](https://fraction-game-ashy.vercel.app/)
+
 ## About
 
 This project is designed as an educational tool to practice and visualize ordering fractions. It leverages modern frontend tools to create a smooth and interactive experience, making learning math more enjoyable.
+
 
 ### Features
  Dynamic fraction ordering exercises  
