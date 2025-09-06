@@ -47,7 +47,33 @@ Once the server starts, open your web browser and go to:
 ```bash
 http://localhost:5173
 ```
+## 📂 Project Structure
 
+```bash
+fraction-game/
+├── node_modules/ 
+├── public/ 
+│ ├── logo.jpg 
+│ └── text.json 
+├── src/e
+│ ├── components/ 
+│ │ ├── Feedback.jsx 
+│ │ ├── FractionCard.jsx 
+│ │ ├── GameBoard.jsx 
+│ │ ├── Header.jsx 
+│ │ └── LevelSelector.jsx 
+│ ├── App.jsx 
+│ ├── index.css 
+│ └── main.jsx
+├── .gitignore 
+├── eslint.config.js 
+├── index.html
+├── package.json 
+├── package-lock.json 
+├── README.md 
+└── vite.config.js             
+
+```
 
 
 
